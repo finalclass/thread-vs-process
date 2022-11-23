@@ -7,7 +7,7 @@ The test is simple:
 3. master receives it and adds to a number of processed messages
 4. the test stops after RUN_SECS seconds and reports how much messages was processed
 
-Results on my [rog14 GA401QM](https://rog.asus.com/laptops/rog-zephyrus/2021-rog-zephyrus-g14-series/spec)
+Results for my [rog14 GA401QM](https://rog.asus.com/laptops/rog-zephyrus/2021-rog-zephyrus-g14-series/spec)
 
 ## Results - 10 sec runs
 
